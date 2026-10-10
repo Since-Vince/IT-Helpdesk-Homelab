@@ -110,27 +110,27 @@ The [`screenshots/`](screenshots/) folder contains visual evidence of my home la
 
 ### osTicket Help Desk Dashboard
 
-![osTicket Dashboard](Tickets.png)
+![osTicket Dashboard](screenshots/Tickets.png)
 
 ### Incident Investigation and Task Management
 
-![Ticket Investigation](Tasks.png)
+![Ticket Investigation](screenshots/Tasks.png)
 
 ### Docker Infrastructure
 
-![Docker Containers](Docker.png)
+![Docker Containers](screenshots/Docker.png)
 
 ### Python Ticket Automation
 
-![Python Generator](Generator.png)
+![Python Generator](screenshots/Generator.png)
 
 ### Linux Authentication Verification
 
-![Linux Authentication](Authentication.png)
+![Linux Authentication](screenshots/Authentication.png)
 
 ### Daily Automation
 
-![systemd Timer](timer.png)
+![systemd Timer](screenshots/timer.png)
 
 ## Completed Milestones
 
