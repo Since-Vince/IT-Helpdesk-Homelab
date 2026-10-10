@@ -1,4 +1,4 @@
-# IT-Helpdesk-Homelab
+# IT Helpdesk Homelab
 Hands-on IT support, Linux troubleshooting, IAM, Docker, and osTicket automation projects
 IT Help Desk & Identity Management Home Lab
 A self-hosted IT support training environment built with Ubuntu Server, CasaOS, Docker Compose, osTicket, MariaDB, Python, and systemd. I use this lab to practice IT ticket triage, Linux administration, authentication troubleshooting, and technical documentation.
