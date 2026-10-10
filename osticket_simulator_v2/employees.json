@@ -1,0 +1,22 @@
+[
+  {"name": "Alex Morgan", "email": "alex.morgan@example.com", "department": "Sales"},
+  {"name": "Taylor Brooks", "email": "taylor.brooks@example.com", "department": "HR"},
+  {"name": "Jordan Rivera", "email": "jordan.rivera@example.com", "department": "Operations"},
+  {"name": "Sam Patel", "email": "sam.patel@example.com", "department": "IT"},
+  {"name": "Morgan Lee", "email": "morgan.lee@example.com", "department": "Sales"},
+  {"name": "Casey Nguyen", "email": "casey.nguyen@example.com", "department": "Finance"},
+  {"name": "Riley Chen", "email": "riley.chen@example.com", "department": "Marketing"},
+  {"name": "Jamie Carter", "email": "jamie.carter@example.com", "department": "HR"},
+  {"name": "Avery Johnson", "email": "avery.johnson@example.com", "department": "Finance"},
+  {"name": "Skyler Davis", "email": "skyler.davis@example.com", "department": "Support"},
+  {"name": "Parker Wilson", "email": "parker.wilson@example.com", "department": "Operations"},
+  {"name": "Reese Brown", "email": "reese.brown@example.com", "department": "Sales"},
+  {"name": "Drew Martinez", "email": "drew.martinez@example.com", "department": "IT"},
+  {"name": "Cameron Young", "email": "cameron.young@example.com", "department": "Finance"},
+  {"name": "Hayden Thompson", "email": "hayden.thompson@example.com", "department": "HR"},
+  {"name": "Dakota Clark", "email": "dakota.clark@example.com", "department": "Marketing"},
+  {"name": "Quinn Robinson", "email": "quinn.robinson@example.com", "department": "Support"},
+  {"name": "Elliot Garcia", "email": "elliot.garcia@example.com", "department": "Operations"},
+  {"name": "Blake Kim", "email": "blake.kim@example.com", "department": "Sales"},
+  {"name": "Sydney Adams", "email": "sydney.adams@example.com", "department": "IT"}
+]

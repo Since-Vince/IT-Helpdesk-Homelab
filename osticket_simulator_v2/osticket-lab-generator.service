@@ -1,0 +1,19 @@
+[Unit]
+Description=Submit fictional home-lab IT tickets to osTicket
+Wants=network-online.target
+After=network-online.target docker.service
+RequiresMountsFor=/DATA/AppData/osticket
+
+[Service]
+Type=oneshot
+User=l3ince
+Group=l3ince
+WorkingDirectory=/DATA/AppData/osticket
+Environment=OSTICKET_URL=http://127.0.0.1:8085
+LoadCredential=api_key:/etc/osticket-lab-generator.key
+ExecStart=/usr/bin/python3 /DATA/AppData/osticket/osticket_ticket_generator_v2.py --count 3 --send --api-key-file %d/api_key
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+UMask=0077

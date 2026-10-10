@@ -1,0 +1,10 @@
+[Unit]
+Description=Create three simulated help desk tickets every morning
+
+[Timer]
+OnCalendar=*-*-* 09:00:00
+Persistent=true
+Unit=osticket-lab-generator.service
+
+[Install]
+WantedBy=timers.target
